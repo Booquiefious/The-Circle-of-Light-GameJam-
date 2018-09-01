@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: 327c01470424190499efdc435319d09a
+  - enabled: 1
+    path: Assets/MainLevel.unity
+    guid: 7b6124a1ff2614547aa12d3e563ecfb5
+  - enabled: 1
+    path: Assets/RecapScreen.unity
+    guid: 4c573276ef8ad724193e6a4246965535
+  - enabled: 1
+    path: Assets/Death.unity
+    guid: 3536494c0d451fb4e90d3d466526a339
+  m_configObjects: {}
